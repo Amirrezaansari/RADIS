@@ -1499,7 +1499,8 @@ img[data-src] {
 
 .header-style-three .logo-outer .logo{
 	position: relative;
-	padding: 60px 0;
+	padding: 55px 0;
+	margin-right: -80px;
 }
 
 .header-style-three .logo-outer .logo img{
