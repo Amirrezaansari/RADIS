@@ -3343,13 +3343,15 @@ a.ui-button:active, .ui-button:active,
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: cover;
+	/* background-size: cover; */
 	padding: 480px 0 300px;
+	height: 760px;
 }
 
 .property-search-section-three .content-box{
 	position: relative;
 	text-align: center;
+	margin-top: -80px;
 }
 
 .property-search-section-three .content-box .title-box{
